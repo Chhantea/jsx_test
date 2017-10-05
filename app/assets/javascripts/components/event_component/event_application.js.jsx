@@ -42,7 +42,7 @@ render: function() {
   return(
     <div className="container">
       <div className="jumbotron">
-        <h1>ReactJS Tutorial</h1>
+        <h1>React Rails With JSX</h1>
         <p>something which will do</p>
         <hr/>
          <div className="col-md-12">
